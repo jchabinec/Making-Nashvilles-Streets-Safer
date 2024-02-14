@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Folders
+data/
+metadata/
+
 # Distribution / packaging
 .Python
 build/
@@ -158,3 +162,8 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# individual files
+capstone_proposal_jchabinec_da10.docx
+Nashville - Open Data - Nashville Open Data Portal.url
+TRIMS Data Request.url
